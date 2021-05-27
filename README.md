@@ -6,10 +6,13 @@
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/austinnoronha/PHP-MVC-Framework/graphs/commit-activity)
 [![Twitter: austinnoronha](https://img.shields.io/twitter/follow/austinnoronha.svg?style=social)](https://twitter.com/austinnoronha)
 
-> This is simple MVC framework, what has similarity to laravel.
-> It's uses Models, PDO, Samrty, Router etc
-> It's used concepts like namespaces, clasess autoloader etc
-> It's simple to use and it's small in size
+- This is simple & lightweight MVC framework, having similarity to laravel.
+- It uses Models, Classes, PDO for DB, Samrty (Views), Router etc
+- It uses concepts like namespace, clasess, autoloader etc
+- It's simple to use and it's small in size
+- You can add many more features/modules from scratch and gorw your project, without the burden of different plugins
+
+`Happy coding!`
 
 ### 🏠 [Homepage](https://github.com/austinnoronha/PHP-MVC-Framework#readme)
 
@@ -27,6 +30,7 @@
 * Twitter: [@austinnoronha](https://twitter.com/austinnoronha)
 * GitHub: [@austinnoronha](https://github.com/austinnoronha)
 * LinkedIn: [@austinnoronha](https://linkedin.com/in/austinnoronha)
+* Use hashtag #buzzingcoder in your posts!
 
 ## 🤝 Contributing
 
