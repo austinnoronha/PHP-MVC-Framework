@@ -1,0 +1,6 @@
+.vscode
+node_modules
+*.bak
+*.log
+app/cache/*
+app/views_c/*
