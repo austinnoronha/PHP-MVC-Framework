@@ -14,6 +14,8 @@
 
 `Happy coding!`
 
+<img src="https://github.com/austinnoronha/PHP-MVC-Framework/blob/main/.github/custom-mvc-php-oops.png" width="450">
+
 ### 🏠 [Homepage](https://github.com/austinnoronha/PHP-MVC-Framework#readme)
 
 ## Prerequisites
