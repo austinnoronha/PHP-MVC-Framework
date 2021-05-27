@@ -23,7 +23,7 @@
 
 👤 **Austin Noronha**
 
-* Website: buzzincode.com
+* Website: buzzingcode.com
 * Twitter: [@austinnoronha](https://twitter.com/austinnoronha)
 * GitHub: [@austinnoronha](https://github.com/austinnoronha)
 * LinkedIn: [@austinnoronha](https://linkedin.com/in/austinnoronha)
