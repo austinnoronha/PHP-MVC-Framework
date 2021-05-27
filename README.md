@@ -6,8 +6,8 @@
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/austinnoronha/PHP-MVC-Framework/graphs/commit-activity)
 [![Twitter: austinnoronha](https://img.shields.io/twitter/follow/austinnoronha.svg?style=social)](https://twitter.com/austinnoronha)
 
-- This is simple & lightweight MVC framework, having similarity to laravel.
-- It uses Models, Classes, PDO for DB, Samrty (Views), Router etc
+- This is a simple & lightweight MVC framework, having similarity to Laravel.
+- It uses Models, Classes, PDO for DB, Smarty (Views), Router etc
 - It uses concepts like namespace, clasess, autoloader etc
 - It's simple to use and it's small in size
 - You can add many more features/modules from scratch and gorw your project, without the burden of different plugins
